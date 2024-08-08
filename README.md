@@ -1,4 +1,4 @@
-#Projet 1 d'apprentissage de Git et Github
+# Projet 1 d'apprentissage de Git et Github
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit.
          Doloremque ad reprehenderit amet incidunt ut duc
